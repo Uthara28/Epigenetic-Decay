@@ -2,4 +2,4 @@
 *.pkl
 *.RData
 *.rds
-/hanna_simu/*.pkl
+*.pkl
