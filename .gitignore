@@ -2,4 +2,5 @@
 *.pkl
 *.RData
 *.rds
-*.pkl
+*.txt
+old_interactive_data_explorations/
